@@ -1,0 +1,29 @@
+body{
+    background: url(../images/sky-1770.jpeg) no-repeat center center fixed;
+}
+
+.navbar{
+    background-color: transparent !important;
+}
+
+.navbar .navbar-nav .nav-item a{
+    color: white;
+    padding: 30px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    
+}
+
+.display-4{
+    color: white;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
+.fab, .fas {
+    margin: 20px;
+}
